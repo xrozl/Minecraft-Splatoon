@@ -1,0 +1,6 @@
+name: Splatoon
+version: '${project.version}'
+main: com.github.xrozl.minecraft.Splatoon
+api-version: 1.16
+prefix: Splatoon
+authors: [ yuu ]
